@@ -505,8 +505,7 @@ span {
 .support-div p {
   font-weight: bold;
   font-size: 20px;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding: 0 150px;
   text-align: justify !important;
 }
 
@@ -778,8 +777,7 @@ footer hr {
   .support-div p {
     font-weight: bold;
     font-size: 20px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 0;
     text-align: justify !important;
   }
 
