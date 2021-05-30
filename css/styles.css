@@ -677,6 +677,13 @@ footer hr {
   .intro-div{
     flex-direction: column;
   }
+  .intro-div h1{
+    margin:1rem 0;
+    padding: 0;
+  }
+  .intro-div hr{
+    margin-top:0;
+  }
   .intro-div-1,.intro-div-2{
     width:100%;
   }
