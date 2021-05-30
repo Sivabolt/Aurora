@@ -661,11 +661,9 @@ footer hr {
 
   /* arrow styling */
   .arrow {
-    left: 50%;
+    left: 48%;
     bottom: 100px;
-    width: 20px;
     position: relative;
-    text-align: center;
   }
 
   /* top-container styling */
