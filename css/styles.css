@@ -356,10 +356,12 @@ span {
 .card-content {
   width: 50%;
   font-weight: bold;
-  text-align: justify !important;
   padding: 2rem 4rem 2rem;
   color: #000000;
   background-color: #ffffff;
+}
+.card-content p{
+  text-align: justify !important;
 }
 
 .card-img {
