@@ -166,6 +166,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .top-container h1 {
+  font-size:5rem;
   letter-spacing: 4px;
   text-align: center;
   margin-top: 10rem;
@@ -670,6 +671,7 @@ footer hr {
 
   /* top-container styling */
   .top-container h1{
+    font-size:1rem;
     margin-top: 6rem;
   }
 
