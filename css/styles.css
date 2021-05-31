@@ -550,6 +550,9 @@ span {
   font-size: 20px;
   text-align: center;
 }
+.contact-card i{
+  font-size: 2rem;
+}
 
 /* footer styling */
 footer {
