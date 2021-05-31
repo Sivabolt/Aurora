@@ -212,9 +212,11 @@ body::-webkit-scrollbar-thumb {
   margin: 1%;
 }
 .intro-div-1{
+  padding:20px;
   width:50%;
 }
 .intro-div-2{
+  padding:20px;
   width:50%;
 }
 hr {
